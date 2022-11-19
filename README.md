@@ -29,7 +29,7 @@ Check out [API LIVE DEMO](https://backend-coolpics.herokuapp.com) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/thejas-techis/CoolPics.git
+git clone https://github.com/AishwaryaShetty7/Coolpics.git
 ```
 
 2. Backend setting
